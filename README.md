@@ -10,7 +10,7 @@ A database design for a simple database problem which involves connecting events
 
 3. **INSERT** **INTO** 'Attendance' **VALUES** (" ", "Mayowa", "Adegbola", "08057664866", "mayowaadegbola.r@gmail.com")
 
-4. **DELETE** **FROM** "Attendance" ID = 6
+4. **DELETE** **FROM** "Attendance" **WHERE** ID = 6
 
 5. **TRUNCATE** 'Attendance'
 
